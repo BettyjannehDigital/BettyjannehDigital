@@ -2,7 +2,7 @@ Hi, I'm Betty Janneh 👋
 
 **Digital Marketing Student | Brand Strategist | Content Creator**  
 📍 Oslo, Norway &nbsp;|&nbsp; 🎓 Noroff – Digital Marketing (Oct 2025–present)  
-🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) &nbsp;|&nbsp; 📧 Clarityjwly@gmail.com
+🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) &nbsp;|&nbsp; 📧 Clarityjwly@gmail.com|&nbsp; 📧 Betty.janneh.digital@gmail.com
 
 ---
 
@@ -44,7 +44,7 @@ I'm actively building toward a junior digital marketing role or internship, with
 
 ## Currently
 
-- 📚 Midway through Noroff Digital Marketing programme
+- 📚 Last Semester of my Noroff Digital Marketing programme
 - 🚀 Launching OneOhOne Jewelry Hair Claw Clip collection
 - 🔍 Seeking digital marketing internship opportunities in Oslo
 - 🌱 Growing my GitHub portfolio with real project documentation
