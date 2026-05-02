@@ -46,8 +46,8 @@ I'm actively building toward a junior digital marketing role, Marketingcoordinat
 
 - 📚 Last Semester of my Noroff Digital Marketing programme
 - 🚀 Launching OneOhOne Jewelry Hair Claw Clip collection
-- 🔍 Seeking digital marketing internship opportunities in Oslo
-- 🌱 Growing my GitHub portfolio with real project documentation
+- 🔍 Seeking junior digital marketing role, Marketingcoordinator or a Marketing assosiate role opportunities in Oslo
+- 🌱 Growing my GitHub portfolio with real project documentation (frequent updates)
 
 ---
 
