@@ -1,6 +1,6 @@
 Hi, I'm Betty Janneh 👋
 
-**Digital Marketing Student | Brand Strategist | Content Creator**  
+**Digital Marketing Student | Brand Strategist | Content Producer**  
 📍 Oslo, Norway &nbsp;|&nbsp; 🎓 Noroff – Digital Marketing (Oct 2025–present)  
 🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) &nbsp;|&nbsp; 📧 Clarityjwly@gmail.com|&nbsp; 📧 Betty.janneh.digital@gmail.com
 
