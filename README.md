@@ -1,6 +1,6 @@
 Hi, I'm Betty Janneh 👋
 
-**Digital Marketing Student | Brand Strategist | Content Producer**  
+**Digital Marketing Student | Brand Strategist | Creative Producer | Content Producer**  
 🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital) &nbsp;|&nbsp; 📧 Clarityjwly@gmail.com &nbsp;|&nbsp; 📧 Betty.janneh.digital@gmail.com
 
 ## About Me
@@ -9,7 +9,7 @@ I'm a digital marketing student at Noroff and the founder of **OneOhOne Jewelry*
 
 My background is in creative entrepreneurship, brand storytelling, and care work — which has given me strong emotional intelligence, an instinct for audience connection, and a practical, independent work style.
 
-I'm actively building toward a junior digital marketing role, Marketingcoordinator or a Marketing assosiate role, with hands-on experience in:
+I'm actively building toward a junior digital marketing role, creative producer, content producer, or as a Marketing coordinator, with hands-on experience in:
 
 - 📱 Social media strategy & content (Instagram, TikTok)
 - 📧 Email marketing & CRM (Mailchimp, campaign strategy)
