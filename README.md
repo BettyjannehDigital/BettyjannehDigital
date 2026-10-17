@@ -1,51 +1,49 @@
-Hi, I'm Betty Janneh 👋
+# Hi, I'm Betty Janneh 👋
 
-**Digital Marketing Student | Brand Strategist | Creative Producer | Content Producer**  
-🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital) &nbsp;|&nbsp; 📧 Clarityjwly@gmail.com &nbsp;|&nbsp; 📧 Betty.janneh.digital@gmail.com
+**Digital Marketing | Brand Strategy | Content & Video Production**
+📍 Oslo, Norway · Available for remote and on-site work in Oslo
 
-## About Me
+I've just completed my Digital Marketing programme at **Noroff** and I run **OneOhOne Jewelry**, a culturally rooted waist jewelry brand handmade in The Gambia. I use my own brand as a live portfolio: every project below was built on a real brand, with real content, real analytics and real results.
 
-I'm a digital marketing student at Noroff and the founder of **OneOhOne Jewelry** — a culturally rooted waist jewelry brand handmade in The Gambia. I use my own brand as a live portfolio, applying everything I learn directly to real campaigns, real analytics, and real results.
+**I'm looking for:** junior digital marketing, content producer, marketing coordinator or marketing associate roles in Oslo.
 
-My background is in creative entrepreneurship, brand storytelling, and care work — which has given me strong emotional intelligence, an instinct for audience connection, and a practical, independent work style.
-
-I'm actively building toward a junior digital marketing role, creative producer, content producer, or as a Marketing coordinator, with hands-on experience in:
-
-- 📱 Social media strategy & content (Instagram, TikTok)
-- 📧 Email marketing & CRM (Mailchimp, campaign strategy)
-- 🔍 SEO & website optimisation (WordPress, RankMath, WAVE)
-- 📊 Analytics & performance reporting (GA4, Meta Insights, TikTok Analytics)
-- 💡 Brand strategy, positioning & consumer personas
-- 🎨 Content creation & visual design (Canva, Meta Business Suite)
-- 🎬 Video editing & creative direction (transitional editing, Reels, TikTok)
+🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) · 🌐 [Portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital) · 📧 [Betty.janneh.digital@gmail.com](mailto:Betty.janneh.digital@gmail.com)
 
 ---
 
-## Projects
+## Featured Projects
 
-| Repository | Description | Skills |
-|---|---|---|
-| [SoMe Marketing – OneOhOne](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne) | Social media strategy + live post performance analysis | Strategy, Analytics, Content |
-| [Marketing Strategy – OneOhOne](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy) | Full brand & marketing strategy, email campaigns, paid ads | Strategy, Branding, Email, Paid Ads |
-| [Circadian Calm – Semester Project](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project) | WordPress content hub for night shift workers — blog, landing page, SEO | WordPress, SEO, Accessibility, UX |
-| [SEO & Accessibility Audit – OneOhOne](https://github.com/BettyjannehDigital/SEO-Accessibility-Audit-OneOhOne) | Live website audit using WAVE, RankMath & One.com Performance Monitor | SEO, Accessibility, Technical |
-| [Freelance – FITTED Activewear](https://github.com/BettyjannehDigital/Freelance-FITTED-Activewear) | Transitional video concept & edit for activewear client — became their best performing Instagram Reel | Video Editing, Creative Direction, Platform Strategy |
+| Project | What I did | Key result | Skills |
+| --- | --- | --- | --- |
+| [Social Media Marketing – OneOhOne](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne) | Built brand identity and a TikTok and Instagram strategy, published 4 live posts, analysed the data | TikTok video: 668 views in 24 hours, 97.7% from the For You page | Social media, Analytics, Content |
+| [Marketing Strategy – OneOhOne](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy) | Brand positioning, 3 buyer personas, SMART goals, 3-email Mailchimp series | Full strategy suite for a live brand | Strategy, Branding, Email |
+| [Paid Advertising Strategy – OneOhOne](https://github.com/BettyjannehDigital/Paid-Advertising-Strategy-OneOhOne) | Meta Ads plan: targeting, creative brief, budget and KPIs | 700 NOK, 7-day campaign plan | Paid ads, Meta Ads Manager |
+| [Circadian Calm – WordPress Content Hub](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-) | Built a WordPress site for night shift workers: blog, landing page, email sign-up, SEO and accessibility audit | RankMath SEO score 22 → 88 / 100 | WordPress, SEO, Accessibility |
+| [Project Exam – FITTED Activewear Campaign](https://github.com/BettyjannehDigital/Project-Exam-FITTED-Campaign) | Planned and designed a 5-piece Instagram campaign for an activewear brand, then measured it against a SMART goal | Reached 62.3% non-followers; the 20% target was not met and the report explains why | Campaign planning, Analytics, Instagram |
+| [Freelance – FITTED Activewear](https://github.com/BettyjannehDigital/Freelance-FITTED-Activewear) | Concept, edit and platform advice for a transitional video | Best performing Instagram Reel on the client's account | Video editing, Creative direction |
 
 ---
 
-## Tools & Platforms
+## What I Can Do
 
-`Instagram` `TikTok` `Meta Business Suite` `Canva` `WordPress` `RankMath` `Google Analytics 4` `Etsy` `Mailchimp` `WAVE` `LinkedIn`
+- 📱 **Social media strategy and content:** Instagram, TikTok
+- 📧 **Email marketing and CRM:** Mailchimp, campaign strategy
+- 🔍 **SEO and website optimisation:** WordPress, RankMath, WAVE
+- 📊 **Analytics and reporting:** GA4, Meta Insights, TikTok Analytics
+- 💡 **Brand strategy:** positioning, consumer personas
+- 🎨 **Content and visual design:** Canva, Meta Business Suite
+- 🎬 **Video editing and creative direction:** transitional editing, Reels, TikTok
+
+**Tools:** `Instagram` `TikTok` `Meta Business Suite` `Meta Ads Manager` `Canva` `WordPress` `RankMath` `Google Analytics 4` `Etsy` `Mailchimp` `WAVE` `LinkedIn`
 
 ---
 
 ## Currently
 
-- 📚 Last Semester of my Noroff Digital Marketing programme
-- 🚀 Launching OneOhOne Jewelry Hair Claw Clip collection
-- 🔍 Seeking junior digital marketing role, content producer, Marketingcoordinator or a Marketing assosiate role opportunities in Oslo. (Available for remote and on site work in Oslo)
-- 👩🏿‍💻 Editing short form content to fill out my portfolio and expand my skillsets
-- 🌱 Growing my GitHub portfolio with real project documentation (frequent updates)
+- 🎓 Graduated from the Noroff Digital Marketing programme (October 2026)
+- 🚀 Launching the OneOhOne Jewelry Hair Claw Clip collection
+- 🎬 Editing short-form content to grow my portfolio
+- 🌱 Adding real project documentation to this GitHub
 
 ---
 
