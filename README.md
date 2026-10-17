@@ -7,7 +7,7 @@ I've just completed my Digital Marketing programme at **Noroff** and I run **One
 
 **I'm looking for:** junior digital marketing, content producer, marketing coordinator or marketing associate roles in Oslo.
 
-🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) · 🌐 [Portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital) · 📧 [Betty.janneh.digital@gmail.com](mailto:Betty.janneh.digital@gmail.com)
+🔗 [OneOhOne Jewelry](https://www.oneohonejewelry.com) · 🌐 [Portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital) · 💼 [LinkedIn](https://no.linkedin.com/in/betty-janneh-5b7677345) · 📧 [Betty.janneh.digital@gmail.com](mailto:Betty.janneh.digital@gmail.com)
 
 ---
 
