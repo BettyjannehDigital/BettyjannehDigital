@@ -20,7 +20,7 @@ I've just completed my Digital Marketing programme at **Noroff** and I run **One
 | [Paid Advertising Strategy – OneOhOne](https://github.com/BettyjannehDigital/Paid-Advertising-Strategy-OneOhOne) | Meta Ads plan: targeting, creative brief, budget and KPIs | 700 NOK, 7-day campaign plan | Paid ads, Meta Ads Manager |
 | [Circadian Calm – WordPress Content Hub](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-) | Built a WordPress site for night shift workers: blog, landing page, email sign-up, SEO and accessibility audit | RankMath SEO score 22 → 88 / 100 | WordPress, SEO, Accessibility |
 | [Project Exam – FITTED Activewear Campaign](https://github.com/BettyjannehDigital/Project-Exam-FITTED-Campaign) | Planned and designed a 5-piece Instagram campaign for an activewear brand, then measured it against a SMART goal | Reached 62.3% non-followers; the 20% target was not met and the report explains why | Campaign planning, Analytics, Instagram |
-| [Freelance – FITTED Activewear](https://github.com/BettyjannehDigital/Freelance-FITTED-Activewear) | Concept, edit and platform advice for a transitional video | Best performing Instagram Reel on the client's account | Video editing, Creative direction |
+| [Freelance – FITTED Activewear](https://github.com/BettyjannehDigital/Freelance-FITTED-Activewear) | Concept, edit and platform advice for a transitional video | Client called it the best performing Reel on her account | Video editing, Creative direction |
 
 ---
 
