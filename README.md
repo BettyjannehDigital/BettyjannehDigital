@@ -26,7 +26,7 @@ I've just completed my Digital Marketing programme at **Noroff** and I run **One
 
 ## Studio Janneh: my freelance video and content studio
 
-I run **Studio Janneh**, where I film and edit short-form video and plan content for brands and creators. See the [services and prices](studio-janneh/README.md), or send an enquiry through the [client intake form](https://forms.gle/xjRzDYctzdKQqUc39).
+I run **Studio Janneh**, where I film and edit short-form video and plan content for brands and creators. See the [services and prices](https://github.com/BettyjannehDigital/Studio-Janneh), or send an enquiry through the [client intake form](https://forms.gle/xjRzDYctzdKQqUc39).
 
 ---
 
@@ -55,7 +55,7 @@ I run **Studio Janneh**, where I film and edit short-form video and plan content
 
 ## Free templates
 
-- [Personal Brand Toolkit template](templates/personal-brand-toolkit-template.md): a blank toolkit for keeping a brand's voice, visuals and content format in one place.
+- [Personal Brand Toolkit template](https://github.com/BettyjannehDigital/Content-Templates/blob/main/personal-brand-toolkit-template.md): a blank toolkit for keeping a brand's voice, visuals and content format in one place.
 
 ---
 
